@@ -16,11 +16,4 @@ Here are some ideas to get you started:
   
 
 
-## Stats 
-<a href="https://github.com/shaikbabita369/github-readme-stats" style = "margin = 3px; display = grid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikbabita369&show_icons=true&theme=chartreuse-dark" />
-</a>
 
-<a href="https://github.com/shaikbabita369/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikbabita369&layout=compact&theme=chartreuse-dark" width = "467px" max-widht = "720px" height = "auto"/>
-</a>
